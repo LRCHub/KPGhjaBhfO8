@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Keep Your Head Up",
+  "base_artist": "SEIKIN",
+  "createdAt": "2025-12-10T13:00:07.702021Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Keep Your Head Up",
+      "artist": "Cults",
+      "has_synced": true,
+      "path": "select/01_Keep_Your_Head_Up_Cults.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Keep Your Head Up",
+      "artist": "Tupac",
+      "has_synced": true,
+      "path": "select/02_Keep_Your_Head_Up_Tupac.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Keep Your Head Up",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/03_Keep_Your_Head_Up_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Keep Your Head Up",
+      "artist": "The Kooks",
+      "has_synced": true,
+      "path": "select/04_Keep_Your_Head_Up_The_Kooks.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Keep Your Head Up",
+      "artist": "Twin Atlantic",
+      "has_synced": true,
+      "path": "select/05_Keep_Your_Head_Up_Twin_Atlantic.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Keep Your Head Up (live)",
+      "artist": "Kensington",
+      "has_synced": true,
+      "path": "select/06_Keep_Your_Head_Up_(live)_Kensington.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Keep Your Head Up",
+      "artist": "Jdot Breezy",
+      "has_synced": true,
+      "path": "select/07_Keep_Your_Head_Up_Jdot_Breezy.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Keep Your Head Up",
+      "artist": "Lucas",
+      "has_synced": true,
+      "path": "select/08_Keep_Your_Head_Up_Lucas.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Keep Your Head Up",
+      "artist": "Mix",
+      "has_synced": true,
+      "path": "select/09_Keep_Your_Head_Up_Mix.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Keep Your Head Up",
+      "artist": "BZN",
+      "has_synced": false,
+      "path": "select/10_Keep_Your_Head_Up_BZN.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Keep Your Head Up (Paused)",
+      "artist": "Cults",
+      "has_synced": true,
+      "path": "select/11_Keep_Your_Head_Up_(Paused)_Cults.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Keep Your Head Up",
+      "artist": "Ben Howard",
+      "has_synced": true,
+      "path": "select/12_Keep_Your_Head_Up_Ben_Howard.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Keep Your Head Up",
+      "artist": "Andy Grammer",
+      "has_synced": true,
+      "path": "select/13_Keep_Your_Head_Up_Andy_Grammer.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Keep Your Head Up",
+      "artist": "Cherry Bullet",
+      "has_synced": true,
+      "path": "select/14_Keep_Your_Head_Up_Cherry_Bullet.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Keep Your Head Up",
+      "artist": "SEIKIN",
+      "has_synced": false,
+      "path": "select/pl_01_Keep_Your_Head_Up_SEIKIN.txt"
+    }
+  ]
+}
